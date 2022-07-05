@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MauriceW02
 - 👀 I’m interested in Cyber Security, Pentesting and in general IT 
 - 🌱 I’m currently learning Python and IT Things
+- 💻 Working as an IT Specialist for System Integration
